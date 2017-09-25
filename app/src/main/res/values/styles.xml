@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:textColorSecondary">@color/primaryText</item>
+        <item name="android:divider">@color/divider</item>
+    </style>
+    <style name="NavigationDrawerStyle">
+        <item name="android:textSize">20sp</item><!-- text size in menu-->
+        <item name="android:listPreferredItemHeightSmall">40dp</item><!-- item size in menu-->
+        <item name="android:listDivider">@color/divider</item>
+    </style>
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+    <style name="ListFont" parent="@android:style/Widget.ListView">
+        <item name="android:textColor">#000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:divider">@color/divider</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+</resources>

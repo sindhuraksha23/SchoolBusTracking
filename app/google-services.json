@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924091589872",
+    "project_id": "trackingsystem-abcca"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924091589872:android:00eea7b9dd2fa0b3",
+        "android_client_info": {
+          "package_name": "com.rakshasindhu.trackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924091589872-vordj4amr0v69l06g8i63k7sf654pnns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiXGKZU2YQOzaRZWoFiomj-PcBwFPAgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
